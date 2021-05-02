@@ -1,4 +1,4 @@
-# PDF Parser To Look For a String Or A Word By Mohammed Ouedrhiri
+# PDF Parser To Look For a String Or A Word in a PDF By Mohammed Ouedrhiri
 
 # Using Python
 
